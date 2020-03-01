@@ -10,6 +10,6 @@ Notes:
 
 
 Steps
-- Add to environment_variables.py the user and receiver information, as 
-- Add the database access login and the query in string format.
+- Add to environment_variables.py the user and receiver information
+- Add the database access login and the query in string format
 - Run sales_report.py
