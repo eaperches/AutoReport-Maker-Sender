@@ -1,4 +1,4 @@
-# AutoReport-Maker-Sender
+# AutoReport-MakerSender
 
 This script runs a SQL query on an online database, creates a csv file and automatically sends it to an email from a specific email address. It also creates a unique id for the reports based on the date and the library uuid.
 
