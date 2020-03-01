@@ -1,8 +1,6 @@
 # AutoReport-Maker-Sender
-Run a query in python to have it automatically generate a .csv report and send it to a specific email with some content.
 
-This script runs a SQL query on an online database, creates a csv file and automatically sends it to an email from a specific email address.
-It also creates a unique id for the reports based on the date and the library uuid
+This script runs a SQL query on an online database, creates a csv file and automatically sends it to an email from a specific email address. It also creates a unique id for the reports based on the date and the library uuid.
 
 Notes: 
 - The email address has to have a SMTP server enabled with their provider.
