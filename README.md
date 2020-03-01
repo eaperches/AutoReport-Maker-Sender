@@ -9,6 +9,7 @@ Notes:
 - Python does not automatically come with a library to communicate with MySQL, so the mysql library must be installed using pip.
 
 
-**Steps
-- Add to environment_variables.py the user and receiver information, as well as the database access login.
+Steps
+- Add to environment_variables.py the user and receiver information, as 
+- Add the database access login and the query in string format.
 - Run sales_report.py
